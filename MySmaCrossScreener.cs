@@ -21,7 +21,7 @@ Long: fast SMA crosses above slow SMA (golden cross).
 Short: fast SMA crosses below slow SMA (death cross).
 Exit long: death cross, trailing stop, stop/take on open.
 Exit short: golden cross, trailing stop, stop/take on open.
-
+AI curosr
 MOEX non-trade periods: weekdays 10:00-18:00, no weekends.
 */
 
